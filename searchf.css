@@ -1,0 +1,42 @@
+
+
+.containerx {
+    margin-top: 56px;
+    text-align: center;
+    display: block;
+}
+
+.search-barx {
+    text-align: center;
+    /* display: inline; */
+}
+
+.s2x {
+    width: 500px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 30px;
+    text-align: center;
+    font-weight: Bolder;
+    display: inline;
+}
+
+.A {
+    background: #f3f3c6;
+    font-weight: Bolder;
+    height: 34px;
+    cursor: pointer;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: inline-flex;
+    width: 56px;
+}
+
+.bn {
+    border: green 1px solid;
+    height: 300px;
+    Margin-top: 36px;
+    Border-radius: 12px;
+    background-color: rgb(230, 230, 203);
+    display: block;
+}
